@@ -1,0 +1,27 @@
+/* 主文件 */
+*
+{
+    box-sizing: border-box;
+}
+header
+{
+    padding: 15px;
+
+    color: #fff;
+    background-color: #e4393c;
+}
+aside ul
+{
+    margin: 0;
+    padding: 0;
+
+    list-style: none;
+}
+aside li
+{
+    margin-bottom: 7px;
+    padding: 8px;
+
+    color: #ffd;
+    background: #33b5e5;
+}
